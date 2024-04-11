@@ -1,9 +1,9 @@
 /**
  * Physics Equations
  * A collection of physics equations written in C++.
- * GitHub: https://www.github.com/lewisevans2007/physics_equations
+ * GitHub: https://www.github.com/0x4248/physics_equations
  * Licence: GNU General Public License v3.0
- * By: Lewis Evans
+ * By: 0x4248
 */
 
 #include <cmath>
